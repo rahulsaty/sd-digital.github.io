@@ -54,7 +54,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: transparent;
 }
 
 .bg-dark {
@@ -130,22 +130,22 @@ aside {
     }
 
     .navbar-default . .navbar-brand {
-        color: rgba(255,255,255,.7);
+        color: #FF0000;
     }
 
     .navbar-default . .navbar-brand:hover,
     .navbar-default . .navbar-brand:focus {
-        color: #fff;
+        color: #FF0000;
     }
 
     .navbar-default .nav > li>a,
     .navbar-default .nav>li>a:focus {
-        color: rgba(255,255,255,.7);
+        color: #FF0000;
     }
 
     .navbar-default .nav > li>a:hover,
     .navbar-default .nav>li>a:focus:hover {
-        color: #fff;
+        color: #FF0000;
     }
 
     .navbar-default.affix {
@@ -165,7 +165,7 @@ aside {
 
     .navbar-default.affix .nav > li>a,
     .navbar-default.affix .nav>li>a:focus {
-        color: #222;
+        color: #FF0000;
     }
 
     .navbar-default.affix .nav > li>a:hover,
